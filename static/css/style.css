@@ -1,6 +1,17 @@
+body {
+    background-color: #b2ad7f;
+    font-size: 100%;
+}
 h1 {
-    border: 2px #eee solid;
-    color: brown;
+    background-color: black;
+    border: 2px gray solid;
+    color: white;
     text-align: center;
     padding: 10px;
+}
+p {
+    font-family: Garamond, serif;
+    text-align: center;
+    color: white;
+    font-size: 1.4em;
 }
